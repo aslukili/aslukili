@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @el-ouakili
-- 👀 I’m interested in cyber cecurity
+- 👀 I’m interested in cybercecurity
 - 🌱 I’m currently learning all about IT
 - 📫 How to reach me by: abdeslam.loukili@etu.uae.ac.ma
 
