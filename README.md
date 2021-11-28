@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @el-ouakili
-- 👀 I’m interested in cybercecurity
-- 🌱 I’m currently learning all about IT
-- 📫 How to reach me by: abdeslam.loukili@etu.uae.ac.ma
+- 👋 Hi, I’m Abdeslam Loukili (IT-GEEK)
+- 🌱 Learning web development at youcode.ma
+- 📫 Reach me by: abdeslam.social@outlook.com
 
 <!---
 el-ouakili/el-ouakili is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
