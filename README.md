@@ -10,9 +10,11 @@ git, HTML, CSS, AWS,
 
 ## More about me
 
-📫 How to reach me: abdeslam.social@outlook.com or Twitter @geek_as_abdeslam
+- 📫 How to reach me: abdeslam.social@outlook.com or Twitter @geek_as_abdeslam
 
-😄 Pronouns: he/his
+- 😄 Pronouns: he/his
+
+- 🤝 My linkedIn: https://www.linkedin.com/in/el-ouakili/
 
 
 
