@@ -14,7 +14,7 @@ git, HTML, CSS, AWS,
 
 - 😄 Pronouns: he/his
 
-- 🤝 My linkedIn: https://www.linkedin.com/in/el-ouakili/
+- 🤝 My LinkedIn: [el-ouakili](https://www.linkedin.com/in/el-ouakili/)
 
 
 
