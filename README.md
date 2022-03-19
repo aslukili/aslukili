@@ -1,5 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=aslukili)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=aslukili&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
