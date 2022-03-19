@@ -43,7 +43,7 @@
 
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=aslukili&&theme=xcode)](https://github.com/rishavchanda)
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aslukili&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aslukili" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aslukili&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aslukili" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aslukili&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
 
