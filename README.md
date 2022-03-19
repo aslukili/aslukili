@@ -1,20 +1,4 @@
-
-# Hi I'm Abdeslam
-- 👋 Hi, I’m Abdeslam Loukili (IT-GEEK)
-
-- 🌱 Learning web development at [YouCode.ma](https://youcode.ma/)
-
-## 🛠 Skills
-git, HTML, CSS, AWS, 
-
-
-## More about me
-
-- 📫 How to reach me: abdeslam.social@outlook.com or Twitter @geek_as_abdeslam
-
-- 😄 Pronouns: he/his
-
-- 🤝 My LinkedIn: [el-ouakili](https://www.linkedin.com/in/el-ouakili/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=aslukili)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
