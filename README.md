@@ -6,6 +6,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <!--  right intro-->
 <p align="left"> <a href="https://twitter.com/aslukili" target="blank"><img src="https://img.shields.io/twitter/follow/aslukili?logo=twitter&style=for-the-badge" alt="aslukili" /></a> </p>
+
+- **🖥️ I am looking to collaborate on small projects to practice my skills**
+
 - 🔭 I’m currently working on **African Voice**
 
 - 🌱 I’m currently learning **JavaScript**
