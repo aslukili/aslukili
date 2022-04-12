@@ -43,4 +43,5 @@
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aslukili&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=aslukili&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
