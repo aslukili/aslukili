@@ -1,5 +1,3 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=aslukili&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-
 <h1 align="center">Hi 👋, I'm Abdeslam Loukili</h1>
 <h3 align="center">A passionate full-stuck developer from Morocco</h3>
 <!--  left animation-->
@@ -44,10 +42,8 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Emblem.png" alt="aws" width="40" height="40"/> </a>
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=aslukili&&theme=xcode)](https://github.com/rishavchanda)
+[![trophy](https://github-profile-trophy.vercel.app/?username=aslukili&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aslukili&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aslukili" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aslukili&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aslukili&&theme=tokyonight" alt="rishavchanda" /></p>
