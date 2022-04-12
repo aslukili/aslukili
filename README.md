@@ -42,8 +42,5 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Emblem.png" alt="aws" width="40" height="40"/> </a>
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aslukili&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aslukili&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aslukili" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aslukili&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=aslukili&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
