@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdeslam Loukili</h1>
-<h3 align="center">A passionate full-stuck developer from Morocco</h3>
+<h3 align="center">A passionate full-stack developer from Morocco</h3>
 <!--  left animation-->
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <!--  right intro-->
@@ -7,13 +7,13 @@
 
 - **🖥️ I am looking to collaborate on small projects to practice my skills**
 
-- 🔭 I’m currently working on **African Voice**
+- 🔭 I’m currently working on **[African Voice Website](https://github.com/aslukili/african-voice-website)**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript, Vuejs and Laravel**
 
 - 💬 Ask me about **Anything IT**
 
-- 📫 How to reach me **abdeslam.edu@gmail.com**
+- 📫 How to reach me **abdeslam.loukili.contact@gmail.com**
 
 - ⚡ Fun fact **I am in love with Vim**
 
